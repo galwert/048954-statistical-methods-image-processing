@@ -1,0 +1,11 @@
+# Whitelist: only the final submitted notebooks are tracked.
+*
+!.gitignore
+!README.md
+!HW1/
+!HW1/submission/
+!HW1/submission/ee048954_hw1_id1_id2.ipynb
+!HW2/
+!HW2/ee048954_hw2.ipynb
+!HW3/
+!HW3/ee048954_hw3.ipynb
